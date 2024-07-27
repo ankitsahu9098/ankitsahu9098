@@ -1,4 +1,4 @@
-![logo](https://github.com/ankitsahu9098/ankitsahu9098/blob/main/Software%20developer%20banner.png)
+![logo](https://github.com/ankitsahu9098/ankitsahu9098/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Ankit Sahu</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
