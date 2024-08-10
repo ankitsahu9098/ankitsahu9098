@@ -10,7 +10,6 @@
 
 - 📫 How to reach me **sahauankit90980@gmail.com**
 
-- ⚡ Fun fact **see me once when I am working**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
